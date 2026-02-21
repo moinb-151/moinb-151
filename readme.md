@@ -6,8 +6,8 @@
 
 ## 👨‍💻 About Me
 
-🎓 Pursuing **BBA (Computer Applications)**  
-🏫 Indira College of Commerce & Science, India  
+🎓 MCA Graduate  
+🏫 Savitribai Phule Pune University (SPPU), India  
 
 💡 Currently focused on:
 - Backend Development (Django / DRF)
